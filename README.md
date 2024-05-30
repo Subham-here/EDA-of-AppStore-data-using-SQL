@@ -1,2 +1,2 @@
 # EDA-of-AppStore-data-using-SQL
-This is an EDA (Exploratory Data Analysis) of AppStore Data using SQL
+Here I have tried to explore and analyse a dataset named 'APPLE_STORE_DATA' which contained 2 datasets 
